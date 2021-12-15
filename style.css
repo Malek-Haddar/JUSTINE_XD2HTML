@@ -1,0 +1,135 @@
+.bg-img {
+    height: 610px;
+    background: transparent url('img/Groupe 10.png') 0% 0% no-repeat padding-box;
+    margin-left: -13px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.navbar-brand {
+    width: 152px;
+    height: 43px;
+    background: #F25A1E 0% 0% no-repeat padding-box;
+    text-align: center;
+    font: normal normal medium 13px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.logo {
+    width: 120px;
+    height: 80px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.centered2 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font: normal normal 300 20px/30px Roboto;
+    letter-spacing: 0px;
+}
+
+.lire {
+    border: 1px solid;
+    background-color: transparent;
+    width: 100px;
+    height: 50px;
+    color: white;
+}
+
+.btn-x {
+    width: 261px;
+    height: 62px;
+    border: 1px solid #FD7021;
+    color: #FD7021;
+    border-radius: 0%;
+}
+
+.bg-img-2 {
+    height: 610px;
+    background: transparent url('img/Groupe 11.png') 0% 0% no-repeat padding-box;
+    margin-left: -13px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.btn-y {
+    width: 261px;
+    height: 62px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 0%;
+    border: 1px solid #FFFFFF;
+}
+
+.btn-z {
+    width: 150px;
+    height: 45px;
+    border: 1px solid #FD7021;
+    color: #FD7021;
+    border-radius: 0%;
+    text-align: center;
+}
+
+.btn-a {
+    width: 96px;
+    height: 30px;
+    background-color: #FD7021;
+    border-radius: 0%;
+    color: #FFFFFF;
+}
+
+.card {
+    border: none;
+}
+
+.abonne {
+    font: normal normal medium 12px/25px Roboto;
+    color: #242020;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.abonne>input {
+    margin-left: 8px;
+    border: 1px solid #DBDBDB;
+}
+
+.text-btn {
+    margin-top: 1rem;
+    font-size: small;
+}
+
+.portrait {
+    text-align: center;
+    font: normal normal normal 25px/45px Abril Fatface;
+    letter-spacing: 0px;
+    color: #242020;
+}
+
+.bio {
+    width: 401px;
+    height: 164px;
+    text-align: left;
+    font: normal normal normal 15px/30px Roboto;
+    letter-spacing: 0px;
+    color: #707179;
+}
+
+.linkz {
+    margin-left: 33%;
+    text-align: left;
+    font: normal normal medium 13px/25px Roboto;
+    letter-spacing: 0px;
+    color: #242020;
+    text-transform: uppercase;
+}
+
+.capture {
+    height: 183px;
+}
